@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+pydantic
+tavily-python
+langchain
+langchain-core
+langchain-ollama
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+langgraph
+langgraph-checkpoint-sqlite
+chromadb
+sentence-transformers
+reportlab
